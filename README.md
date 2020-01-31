@@ -2,6 +2,8 @@
 
 Asciidoc to HTML converter for [Codename One](https://www.codenameone.com)
 
+![CN1Asciidoctor Demo project](https://raw.githubusercontent.com/wiki/shannah/CN1Asciidoctor/images/CN1AsciidoctorDemo.png "CN1AsciiDoctor demo project")
+
 ## Synopsis
 
 This library provides support for converting Asciidoc to HTML inside Codename One apps.  It wraps [Asiidoctor.js](https://asciidoctor.org/docs/asciidoctor.js/) to provide this functionality.
